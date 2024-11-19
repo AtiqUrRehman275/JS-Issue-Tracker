@@ -1,0 +1,9 @@
+
+small {
+    font-size: 0.8em; /* Adjusts the font size */
+    color: gray;      /* Changes the text color */
+}
+.button-container {
+    display: flex;
+    gap: 10px;  /* Adds space between the buttons */
+}
